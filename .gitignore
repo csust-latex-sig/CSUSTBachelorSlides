@@ -1,0 +1,10 @@
+# A minimal .gitignore for CSUSTBachelorSlides
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+
+# only ignore generated PDFs
+slides.pdf
